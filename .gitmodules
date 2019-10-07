@@ -1,0 +1,4 @@
+[submodule "dimabe-odoo/facturacion"]
+	path = dimabe-odoo/facturacion
+	url = git@github.com:dimabe-odoo/facturacion.git
+	branch = master
